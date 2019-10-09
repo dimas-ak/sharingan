@@ -1,6 +1,6 @@
 # sharingan.js
 
-Dependency-free JavaScript library sharingan eyes. [See demo](https://dimas-ak.github.io/sharingan/).
+Dependency-free JavaScript library sharingan eyes. [See demo](https://dimas-ak.com/documentation/3hAtb93seX).
 
 ## Usage
 
@@ -82,4 +82,4 @@ Title elements.
 - TYPE 14 : INDRA ŌTSUTSUKI's SHARINGAN
 - TYPE 15 : KAGUYA ŌTSUTSUKI's RINNE SHARINGAN
 
-[Find More](https://dimas-ak.github.io/sharingan/).
+[Find More](https://dimas-ak.com/).

@@ -1,6 +1,6 @@
 # sharingan.js
 
-Dependency-free JavaScript library sharingan eyes. [See demo](http://dimas-ak.github.io/documentation/sharingan/).
+Dependency-free JavaScript library sharingan eyes. [See Documentation](http://dimas-ak.github.io/documentation/sharingan/).
 
 ## Usage
 

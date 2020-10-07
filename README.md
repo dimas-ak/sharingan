@@ -82,4 +82,6 @@ Title elements.
 - TYPE 14 : INDRA ŌTSUTSUKI's SHARINGAN
 - TYPE 15 : KAGUYA ŌTSUTSUKI's RINNE SHARINGAN
 
-[Find More](http://dimas-ak.github.io).
+[Documentation](https://dimas-ak.web.app/documentation/sharingan)
+
+[Find More](https://dimas-ak.web.app).
